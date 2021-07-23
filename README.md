@@ -1,2 +1,1 @@
-# Roblox-click-Script
-CLick script
+#This is Roblox Code!
